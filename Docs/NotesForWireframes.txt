@@ -1,0 +1,6 @@
+Dashboard - The bottom panel should show certain statistics. Perhaps even up/down arrows and green/red colour coding to show relative increase/decrease. E.g Avg Cost per meal, 
+Avg Weekly Costs, Avg Monthly Costs
+
+The Plan Calendar - Should have options to show months or weeks. For instance, if "monthly" is selected, then the current calendar month is shown, and each day can be clicked on to
+get further information, or to even make a plan for that day. However, if "weekly" is selected, the current week is shown, and it works the same way, days can be clicked on to enter 
+that day's plan screen, but in the weekly calendar view, each day will have more room, and so more information can be displayed per day. Potentially each meal planned for that day.
